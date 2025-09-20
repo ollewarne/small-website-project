@@ -50,6 +50,24 @@ main {
     width: 85%;
 }
 
+.articleWrapper {
+    display: flex;
+    gap: 2em;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.articleWrapper > article {
+    border-top: 3px solid white;
+    border-right: 2px solid var(--light-accent-color);
+    padding: .5em;
+    width: 160px;
+    height: 200px;
+    margin-top: 2em;
+
+}
+
 footer {
     grid-row: 3 / 3;
     background-color: var(--dark-accent-color);
@@ -71,16 +89,30 @@ footer > a {
     main {
         width: 70%;
     }
+    .articleWrapper {
+        gap: 6em;
+    }
 }
 
 @media (min-width: 992px) {
     main {
         width: 70%;
     }
+    .articleWrapper {
+        gap: 8em;
+    }
 }
 
 @media (min-width: 1200px) {
     main {
         width: 70%;
+    }
+
+    .articleWrapper {
+        gap: 10em;
+    }
+
+    .articleWrapper > article {
+        width: 300px;
     }
 }
