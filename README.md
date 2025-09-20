@@ -15,14 +15,14 @@ You can follow the list below to get started and have some requirements to work 
 - [ ] Decide on a theme/purpose for the site (There is a list for inspiration at the bottom of this readme)
 - [x] Add media queries for common screen sizes
 - [x] Create a layout using grid and flexbox
-- [ ] Add a font
+- [x] Add a font
 - [x] Find a color palette
 
 ### HTML
 - [x] Header
 - [x] Nav
 - [x] Main
-- [ ] Sections
+- [x] Sections
 - [ ] Articles
 - [x] Footer
 
