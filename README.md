@@ -49,5 +49,5 @@ You can follow the list below to get started and have some requirements to work 
 
 ## Example page
 
-I made an example of what a site could look like when following the checkboxes. You can find it [HERE](https://ollewarne.github.io/small-website-project/)
+I made an example of what a site could look like when following the checkboxes. You can find it [HERE](https://ollewarne.github.io/small-website-project/)  
 The code for the example site is on the branch called example.
