@@ -23,7 +23,7 @@ You can follow the list below to get started and have some requirements to work 
 - [x] Nav
 - [x] Main
 - [x] Sections
-- [ ] Articles
+- [x] Articles
 - [x] Footer
 
 ### CSS
