@@ -1,0 +1,32 @@
+:root {
+    --main-bg-color: #0F0E0E;
+    --dark-accent-color: #541212;
+    --light-accent-color: #468A9A; 
+    --text-color: #EEEEEE;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    color: var(--text-color);
+    background-color: var(--main-bg-color);
+    width: 100vw;
+    height: 100vh;
+}
+
+header {
+    background-color: var(--dark-accent-color);
+    grid-row: 1 / 1;
+}
+
+main {
+    grid-row: 2 / 2;
+    background-color: var(--light-accent-color);
+}
+
+footer {
+    grid-row: 3 / 3;
+    background-color: var(--dark-accent-color);
+}
