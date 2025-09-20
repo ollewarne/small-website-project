@@ -14,7 +14,8 @@ body {
     background-color: var(--main-bg-color);
     width: 100vw;
     height: 100vh;
-    font-size: clamp(.5em, 1vw + 0.5em, 1.2em);
+    font-size: clamp(.5em, 1vw + 0.7em, 1.2em);
+    font-family: "Allerta Stencil", sans-serif;
 }
 
 header {
@@ -22,9 +23,25 @@ header {
     grid-row: 1 / 1;
 }
 
+header > h1 {
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: .5em;
+}
+
+a {
+    color: orange;
+    text-decoration: none;
+}
+
 main {
     grid-row: 2 / 2;
     background-color: var(--light-accent-color);
+    padding: 1em;
 }
 
 footer {
