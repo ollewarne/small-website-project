@@ -13,8 +13,8 @@ You can follow the list below to get started and have some requirements to work 
 
 ### Base layout
 - [ ] Decide on a theme/purpose for the site (There is a list for inspiration at the bottom of this readme)
-- [ ] Create a layout using grid and flexbox
 - [ ] Add media queries for common screen sizes
+- [ ] Create a layout using grid and flexbox
 - [ ] Add a font
 - [ ] Find a color palette
 
