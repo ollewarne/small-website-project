@@ -13,7 +13,7 @@ You can follow the list below to get started and have some requirements to work 
 
 ### Base layout
 - [ ] Decide on a theme/purpose for the site (There is a list for inspiration at the bottom of this readme)
-- [ ] Add media queries for common screen sizes
+- [x] Add media queries for common screen sizes
 - [x] Create a layout using grid and flexbox
 - [ ] Add a font
 - [x] Find a color palette
@@ -28,7 +28,7 @@ You can follow the list below to get started and have some requirements to work 
 
 ### CSS
 - [x] Add variables for colors
-- [ ] Scale font size based on screen size
+- [x] Scale font size based on screen size
 
 ### Extra parts
 - [ ] Make a collapsible navbar for mobile (hamburger menu)
