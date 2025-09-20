@@ -19,12 +19,12 @@ You can follow the list below to get started and have some requirements to work 
 - [ ] Find a color palette
 
 ### HTML
-- [ ] Header
-- [ ] Nav
-- [ ] Main
+- [x] Header
+- [x] Nav
+- [x] Main
 - [ ] Sections
 - [ ] Articles
-- [ ] Footer
+- [x] Footer
 
 ### CSS
 - [ ] Add variables for colors
